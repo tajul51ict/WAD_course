@@ -1,0 +1,9 @@
+.carousel-item img{
+    height: 75vh;
+    width: 100%;
+}
+h2{
+  font-family: "Ole", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
